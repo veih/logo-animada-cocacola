@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=poppins:wgh@300;400;500;600;700;800;900&disply=swap');
- 
+
 * {
     margin: 0;
     padding: 0;
@@ -84,12 +84,6 @@ body {
     transition-delay: 0;
 }
 
-.card:hover .circulo .logo_sprite {
-    transform: scale(0);
-    transition-delay: 0;
-}
-
-
 .contato {
     position: relative;
     width: 50%;
@@ -134,7 +128,7 @@ body {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%) scale(0);
-    height: 300px;
+    height: 450px;
     transition: 0.5s;
     transition-delay: 0;
 }
