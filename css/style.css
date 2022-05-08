@@ -83,7 +83,10 @@ body {
     transform: scale(0);
     transition-delay: 0;
 }
-
+.card:hover .circulo .logo_sprite{
+    transform: scale(0);
+    transition-delay: 0;
+}
 .contato {
     position: relative;
     width: 50%;
